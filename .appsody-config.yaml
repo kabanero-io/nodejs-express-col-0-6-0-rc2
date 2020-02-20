@@ -1,0 +1,2 @@
+project-name: nodejs-express-0-6-0-project
+stack: docker.io/kabanerobeta/nodejs-express:0.2
